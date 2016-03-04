@@ -1,0 +1,59 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta name=Generator content="Microsoft Word 14 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Calibri","sans-serif";}
+.MsoChpDefault
+	{font-family:"Calibri","sans-serif";}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	layout-grid:15.6pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+</head>
+<body lang=ZH-CN style='text-justify-trim:punctuation'>
+<div class=WordSection1 style='layout-grid:15.6pt'>
+<p class=MsoNormal><b><span style='font-size:14.0pt;font-family:宋体'>感谢韩老师的精彩课程以及所有成员的共同努力</span></b></p>
+<p class=MsoNormal><b><span style='font-family:宋体;color:red'>姓名</span></b><b><span
+lang=EN-US style='font-family:宋体'>&nbsp;&nbsp; </span></b><b><span
+style='font-family:宋体;color:red'>学号<span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>分工<span
+lang=EN-US>&nbsp;&nbsp; </span>得分</span></b></p>
+<p class=MsoNormal><span style='font-family:宋体'>黄显淞<span lang=EN-US>&nbsp; 2014E8009061081 </span>组长<span
+lang=EN-US>&nbsp;&nbsp;&nbsp; 20</span></span></p>
+<p class=MsoNormal><span style='font-family:宋体'>黄超<span lang=EN-US>&nbsp;&nbsp;&nbsp; 201428018426029 </span>组员<span
+lang=EN-US>&nbsp;&nbsp;&nbsp; 20</span></span></p>
+<p class=MsoNormal><span style='font-family:宋体'>谢魏伟<span lang=EN-US>&nbsp; 2014E8018461064 </span>组员<span
+lang=EN-US>&nbsp;&nbsp;&nbsp; 20</span></span></p>
+<p class=MsoNormal><span style='font-family:宋体'>田野<span lang=EN-US>&nbsp;&nbsp;&nbsp; 2014E8018461052 </span>组员<span
+lang=EN-US>&nbsp;&nbsp;&nbsp; 20</span></span></p>
+<p class=MsoNormal><span style='font-family:宋体'>任亦立<span lang=EN-US>&nbsp; 2014E8009061075 </span>组员<span
+lang=EN-US>&nbsp;&nbsp;&nbsp; 20</span></span></p>
+<p class=MsoNormal><span style='font-family:宋体'>刘嫣然<span lang=EN-US>&nbsp; 2014E8009361015 </span>组员<span
+lang=EN-US>&nbsp;&nbsp;&nbsp; 20</span></span></p>
+</div>
+</body>
+</html>
